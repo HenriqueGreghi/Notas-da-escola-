@@ -25,6 +25,7 @@ namespace Notas
 
 
             aluno.ImprimirNota();
+            Console.WriteLine();            
             aluno.ImprimirNota1();
 
 
