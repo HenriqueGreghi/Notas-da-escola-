@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "HeoSwHUqTzn+FImBIJiCZlXOU3uBTKDyNSgwaUsqInWBhA+umy1YP4s1HICRPEvQTVCo5TdSfd7J4ThbcKid8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\017557631\\source\\repos\\Notas\\Notas\\Notas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\017557631\\.nuget\\packages\\openxmlpowertools\\4.5.3.2\\openxmlpowertools.4.5.3.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenXmlPowerTools 4.5.3.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenXmlPowerTools",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
